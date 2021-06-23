@@ -2,5 +2,5 @@
   "user": "casperklein",
   "name": "netbox-scanner",
   "image": "casperklein/netbox-scanner",
-  "version": "2.1.0"
+  "version": "nessus-added"
 }

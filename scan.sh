@@ -2,7 +2,7 @@
 
 set -ueo pipefail
 
-TAG="casperklein/netbox-scanner:latest"
+TAG="testaxiom/netbox-scanner:nessus-added"
 
 DIR=${0%/*}
 cd "$DIR"
