@@ -6,7 +6,7 @@ SHELL   ["/bin/bash", "-o", "pipefail", "-c"]
 
 ENV	GIT_USER="JudewinVJ"
 ENV	GIT_REPO="netbox-scanner"
-ENV	GIT_COMMIT="af0ee8f32f27ad8ffe6367a5c5b84ff9dba41ea7"
+ENV	GIT_COMMIT="8f2e748af7fe8e799feb91be4c1962c639657d9b"
 ENV	GIT_ARCHIVE="https://github.com/$GIT_USER/$GIT_REPO/archive/$GIT_COMMIT.tar.gz"
 
 # Install packages
